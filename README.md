@@ -1,4 +1,4 @@
-
+I have used clean structure and layer first design 
 ## Technologies Used
 
 ### Frontend
